@@ -1,0 +1,16 @@
+G:\vsprojects\ContactoApi\ContactoApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+G:\vsprojects\ContactoApi\ContactoApi\bin\Debug\netcoreapp2.1\appsettings.json
+G:\vsprojects\ContactoApi\ContactoApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+G:\vsprojects\ContactoApi\ContactoApi\bin\Debug\netcoreapp2.1\ContactoApi.deps.json
+G:\vsprojects\ContactoApi\ContactoApi\bin\Debug\netcoreapp2.1\ContactoApi.runtimeconfig.json
+G:\vsprojects\ContactoApi\ContactoApi\bin\Debug\netcoreapp2.1\ContactoApi.runtimeconfig.dev.json
+G:\vsprojects\ContactoApi\ContactoApi\bin\Debug\netcoreapp2.1\ContactoApi.dll
+G:\vsprojects\ContactoApi\ContactoApi\bin\Debug\netcoreapp2.1\ContactoApi.pdb
+G:\vsprojects\ContactoApi\ContactoApi\obj\Debug\netcoreapp2.1\ContactoApi.csprojAssemblyReference.cache
+G:\vsprojects\ContactoApi\ContactoApi\obj\Debug\netcoreapp2.1\ContactoApi.RazorAssemblyInfo.cache
+G:\vsprojects\ContactoApi\ContactoApi\obj\Debug\netcoreapp2.1\ContactoApi.RazorAssemblyInfo.cs
+G:\vsprojects\ContactoApi\ContactoApi\obj\Debug\netcoreapp2.1\ContactoApi.AssemblyInfoInputs.cache
+G:\vsprojects\ContactoApi\ContactoApi\obj\Debug\netcoreapp2.1\ContactoApi.AssemblyInfo.cs
+G:\vsprojects\ContactoApi\ContactoApi\obj\Debug\netcoreapp2.1\ContactoApi.RazorTargetAssemblyInfo.cache
+G:\vsprojects\ContactoApi\ContactoApi\obj\Debug\netcoreapp2.1\ContactoApi.dll
+G:\vsprojects\ContactoApi\ContactoApi\obj\Debug\netcoreapp2.1\ContactoApi.pdb
